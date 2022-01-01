@@ -58,8 +58,8 @@ insert into products (name, description, code, price, type_id, merk_id, land_id,
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Mercedes-Benz C-Class', '6,900,000 to November 2006.', '23849243-2', 57064.0, 5, 8, 1, 1);
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Smart Fortwo', 'Over 1,500,000 by mid-2013.', '234579325-6', 23716.0, 3, 9, 1, 1);
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Opel Corsa', 'Over 18,000,000 sold worldwide in 25 years and in 4 generations. 10 million of them were sold only in Europe.', '27345923-3', 18600.0, 4, 10, 1, 1);
-insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Peugeot 206', 'Approximately 10,000,000 to 2018 in a single generation.', '789234895-3', 7000.0, 3, 11, 2, 1);
-insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Honda Civic', 'Over 16,500,000 to May 2006.', '812490272-3', 27300.0, 5, 12, 6, 1);
+insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Honda Civic', 'Approximately 10,000,000 to 2018 in a single generation.', '789234895-3', 27300.0, 3, 11, 2, 1);
+insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Peugeot 206', 'Over 16,500,000 to May 2006.', '812490272-3', 7000.0, 5, 12, 6, 1);
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Jaguar XJ', '800,000 up to 2005.', '78234587-5', 90000.0, 2, 13, 5, 1);
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Porsche 911', '1,000,000 produced up to 2017.', '28734872-2', 155141, 3, 14, 1, 1);
 insert into products (name, description, code, price, type_id, merk_id, land_id, motor_id) values ('Tesla Model 3', '1,000,000 by June 2021.', '32847823-5', 49980.0, 1, 15, 4, 4);
