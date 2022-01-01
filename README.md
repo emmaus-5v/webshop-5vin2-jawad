@@ -10,7 +10,7 @@ of in Gitpod (gitpod is zonder mailen van orders en zonder permanent hosten):
 - *auto's*
 ### Deze webshop is gemaakt door: 
 - *jawad essalhi* 
--  *gavin mercan*
+
 
 # Mijn aanpak
 Werk de planning af van boven naar beneden<br>
